@@ -1,0 +1,26 @@
+[
+  {
+    "color": "socks brown",
+    "type": "horse",
+    "size": "large",
+    "name": "Melody Lane"
+  },
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "large",
+    "name": "Totoro M"
+  },
+  {
+    "color": "green",
+    "type": "deno",
+    "size": "large",
+    "name": "Ry"
+  },
+  {
+    "color": "white",
+    "type": "dog",
+    "size": "nano",
+    "name": "Max"
+  }
+]
