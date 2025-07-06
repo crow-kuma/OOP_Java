@@ -10,8 +10,9 @@ public class GroomEverything {
         new Car("Yuhina", "Spark", 2038)
     };
 
-    for (Groomable c : groomer) {
-      c.groom();
+    for (Groomable g : groomer) {
+      g.groom();
+      g.pay();
     }
   }
 }
